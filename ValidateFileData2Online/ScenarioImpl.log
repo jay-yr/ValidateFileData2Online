@@ -1,0 +1,60 @@
+Dec 09, 2018 1:13:27 AM com.stepDefinitions.ScenarioTest i_want_to_traverse_a_folder_for_files
+INFO: Start of Directory Traversal: C:\Users\Dillu\Documents\DVLA Files
+Dec 09, 2018 1:13:27 AM com.stepDefinitions.ScenarioTest i_want_to_traverse_a_folder_for_files
+INFO: 2 files found
+Dec 09, 2018 1:13:27 AM com.stepDefinitions.ScenarioTest files_of_supported_fileformats_are_available
+INFO: Start of filtering the file list
+Dec 09, 2018 1:13:27 AM com.stepDefinitions.ScenarioTest read_files_one_by_one_for_Vehicle_Details
+INFO: Reading Vehicle Info from the File: DATA001.csv
+Dec 09, 2018 1:13:27 AM com.stepDefinitions.ScenarioTest read_files_one_by_one_for_Vehicle_Details
+INFO: 4 Vehicle details read from file
+Dec 09, 2018 1:13:27 AM com.stepDefinitions.ScenarioTest read_files_one_by_one_for_Vehicle_Details
+INFO: Reading Vehicle Info from the File: DATA002.xlsx
+Dec 09, 2018 1:13:29 AM com.stepDefinitions.ScenarioTest read_files_one_by_one_for_Vehicle_Details
+INFO: 4 Vehicle details read from file
+Dec 09, 2018 1:13:42 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: OE57 DMU
+Dec 09, 2018 1:13:47 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: EA03 JYL
+Dec 09, 2018 1:13:48 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: FH53 ZGY
+Dec 09, 2018 1:13:50 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: HX03 WJZ
+Dec 09, 2018 1:13:52 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: OE57 DMU
+Dec 09, 2018 1:13:53 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: EA03 JYL
+Dec 09, 2018 1:13:55 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: FH53 ZGY
+Dec 09, 2018 1:13:57 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: HX03 WJZ
+Dec 09, 2018 1:14:02 AM com.stepDefinitions.ScenarioTest i_want_to_traverse_a_folder_for_files
+INFO: Start of Directory Traversal: C:\Users\Dillu\Documents\DVLA Files - Copy
+Dec 09, 2018 1:14:02 AM com.stepDefinitions.ScenarioTest i_want_to_traverse_a_folder_for_files
+INFO: 2 files found
+Dec 09, 2018 1:14:02 AM com.stepDefinitions.ScenarioTest files_of_supported_fileformats_are_available
+INFO: Start of filtering the file list
+Dec 09, 2018 1:14:02 AM com.stepDefinitions.ScenarioTest read_files_one_by_one_for_Vehicle_Details
+INFO: Reading Vehicle Info from the File: DATA001.csv
+Dec 09, 2018 1:14:02 AM com.stepDefinitions.ScenarioTest read_files_one_by_one_for_Vehicle_Details
+INFO: 4 Vehicle details read from file
+Dec 09, 2018 1:14:02 AM com.stepDefinitions.ScenarioTest read_files_one_by_one_for_Vehicle_Details
+INFO: Reading Vehicle Info from the File: DATA002.xlsx
+Dec 09, 2018 1:14:02 AM com.stepDefinitions.ScenarioTest read_files_one_by_one_for_Vehicle_Details
+INFO: 4 Vehicle details read from file
+Dec 09, 2018 1:14:11 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: OE57 DMU
+Dec 09, 2018 1:14:15 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: EA03 JYL
+Dec 09, 2018 1:14:17 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: FH53 ZGY
+Dec 09, 2018 1:14:18 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: HX03 WJZ
+Dec 09, 2018 1:14:20 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: OE57 DMU
+Dec 09, 2018 1:14:21 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: EA03 JYL
+Dec 09, 2018 1:14:23 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: FH53 ZGY
+Dec 09, 2018 1:14:25 AM com.stepDefinitions.ScenarioTest key_in_Vehicle_regno_and_verify_detail
+INFO: look for Vehicle Registration: HX03 WJZ
